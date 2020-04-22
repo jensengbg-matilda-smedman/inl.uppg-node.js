@@ -1,0 +1,74 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "Name": "Nike",
+      "Price": 599,
+      "Size": 41,
+      "imgUrl": "https://placeimg.com/640/480/animals"
+    },
+    {
+      "id": 2,
+      "Name": "Adidas",
+      "Price": 399,
+      "Size": 42,
+      "imgUrl": "https://placeimg.com/640/480/animals"
+    },
+    {
+      "id": 3,
+      "Name": "Jimmy Choo",
+      "Price": 3089,
+      "Size": 37,
+      "imgUrl": "https://placeimg.com/640/480/animals"
+    },
+    {
+      "id": 4,
+      "Name": "Reebok",
+      "Price": 469,
+      "Size": 39,
+      "imgUrl": "https://placeimg.com/640/480/animals"
+    },
+    {
+      "id": 5,
+      "Name": "Bootz",
+      "Price": 279,
+      "Size": 41,
+      "imgUrl": "https://placeimg.com/640/480/animals"
+    },
+    {
+      "id": 6,
+      "Name": "Ralph Lauren",
+      "Price": 909,
+      "Size": 32,
+      "imgUrl": "https://placeimg.com/640/480/animals"
+    },
+    {
+      "id": 7,
+      "Name": "CK",
+      "Price": 1099,
+      "Size": 38,
+      "imgUrl": "https://placeimg.com/640/480/animals"
+    },
+    {
+      "id": 8,
+      "Name": "Puma",
+      "Price": 599,
+      "Size": 37,
+      "imgUrl": "https://placeimg.com/640/480/animals"
+    },
+    {
+      "id": 9,
+      "Name": "VANS",
+      "Price": 889,
+      "Size": 39,
+      "imgUrl": "https://placeimg.com/640/480/animals"
+    },
+    {
+      "id": 10,
+      "Name": "Jordan",
+      "Price": 3229,
+      "Size": 45,
+      "imgUrl": "https://placeimg.com/640/480/animals"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "nodejs-the-one-where-we-build-an-api-assignment-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "lowdb": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Matilda Smedman",
+  "license": "ISC"
+}
